@@ -2,22 +2,25 @@
 
 ## Capturas de pantalla
 ### Java a nivel mundial
-![Java Worldwide](images/java_worldwide.png)
+![Java Worldwide](<img width="503" height="347" alt="image" src="https://github.com/user-attachments/assets/eae7f44c-989b-42a3-8514-da7a6ab16f0a" />
+
+)
 
 ### Java en España
-![Java España](images/java_spain.png)
+![Java España](<img width="503" height="430" alt="image" src="https://github.com/user-attachments/assets/6a07f255-e0e1-459f-bd2d-d4ba68587c8e" />
+)
 
 ## Tabla comparativa
-| Lenguaje    | Worldwide | España  |
-|-------------|-----------|---------|
-| Java        | 100,000   | 2,500   |
-| Python      | 90,000    | 2,000   |
-| JavaScript  | 85,000    | 1,900   |
-| C#          | 60,000    | 1,200   |
-| C/C++       | 50,000    | 1,000   |
-| PHP         | 20,000    | 900     |
-| VB .NET     | 5,000     | 300     |
-| Ruby        | 3,000     | 250     |
+| Lenguaje    | Worldwide   | España   |
+|-------------|-------------|----------|
+| Java        | 1.069.908   | 19.474   |
+| Python      | 1.124.593   | 17.339   |
+| JavaScript  | 1.034.469   | 18.211   |
+| C#          | 4.474       | 393      |
+| C/C++       | 4.722       | 280      |
+| PHP         | 80.990      | 1.775    |
+| VB .NET     | 207         | 240      |
+| Ruby        | 17.994      | 302      |
 
 ## Clasificación
 - Lenguajes más demandados a nivel mundial: Python > Java > JavaScript > ...  
