@@ -2,13 +2,13 @@
 
 ## Capturas de pantalla
 ### Java a nivel mundial
-![Java Worldwide](<img width="503" height="347" alt="image" src="https://github.com/user-attachments/assets/eae7f44c-989b-42a3-8514-da7a6ab16f0a" />
+<img width="503" height="347" alt="image" src="https://github.com/user-attachments/assets/eae7f44c-989b-42a3-8514-da7a6ab16f0a" />
 
-)
+
 
 ### Java en España
-![Java España](<img width="503" height="430" alt="image" src="https://github.com/user-attachments/assets/6a07f255-e0e1-459f-bd2d-d4ba68587c8e" />
-)
+<img width="503" height="430" alt="image" src="https://github.com/user-attachments/assets/6a07f255-e0e1-459f-bd2d-d4ba68587c8e" />
+
 
 ## Tabla comparativa
 | Lenguaje    | Worldwide   | España   |
